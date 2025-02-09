@@ -1,0 +1,5 @@
+transformers
+einops
+numpy
+torch==1.13.1
+seaborn

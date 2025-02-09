@@ -1,0 +1,1 @@
+[{"id": 4, "image": "/nas-ssd2/dataset/coco2017/train2017/000000097747.jpg", "conversations": [{"from": "human", "value": "<image>\nAnswer the question in one word: Question: What's the name of this river? Answer: "}, {"from": "gpt", "value": "Mississippi"}]}]

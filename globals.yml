@@ -1,0 +1,14 @@
+---
+  # Result files
+  RESULTS_DIR: "/nas-ssd2/vaidehi/nlp13/belief-localization/third_party/results"
+
+  # Data files
+  DATA_DIR: "/nas-ssd2/vaidehi/nlp13/belief-localization/third_party/data"
+  # STATS_DIR: "data/stats"
+  STATS_DIR: "/playpen/peter/cache_dir"
+
+  # Hyperparameters
+  HPARAMS_DIR: "hparams"
+
+  # Remote URLs
+  REMOTE_ROOT_URL: "https://rome.baulab.info"
