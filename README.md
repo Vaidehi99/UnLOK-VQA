@@ -26,7 +26,7 @@ This dataset contains approximately **500 entries** with the following key attri
 - **"loc_ans"**: Answers to the neighborhood questions 🗣️
 - **"image_id"**: The ID corresponding to the image in the COCO dataset 🖼️
 
-To access the **Neighborhood Images** (Easy, Hard) and **Paraphrase Images** (Easy, Medium, Hard), visit the following link: [Neighborhood & Paraphrase Images](#).
+To access the **Neighborhood Images** (Easy, Hard) and **Paraphrase Images** (Easy, Medium, Hard), visit the following link: [Neighborhood & Paraphrase Images](https://drive.google.com/drive/folders/16q0y4sxy5B7e2RK43n4PSLpUpNDTyXrG?usp=sharing).
 
 ## Table of Contents
 * [Installation](#installation)
