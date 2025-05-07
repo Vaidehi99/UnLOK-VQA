@@ -2,7 +2,7 @@
 
 This repository includes code for the paper:
 
-[Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://openreview.net/forum?id=YcnjgKbZQS)
+[Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](https://arxiv.org/abs/2505.01456)
 
 [Vaidehi Patil](https://vaidehi99.github.io/),  [Yi-Lin Sung](https://ylsung.github.io/) ,[Peter Hase](https://peterbhase.github.io/), Jie Peng, [Tianlong Chen](https://tianlong-chen.github.io/) and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 
